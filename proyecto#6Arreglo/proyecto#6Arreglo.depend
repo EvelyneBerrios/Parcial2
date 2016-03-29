@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457563182 source:c:\users\dell\documents\progra\proyecto#6arreglo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

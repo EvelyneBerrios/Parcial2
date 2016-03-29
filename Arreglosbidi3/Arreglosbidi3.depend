@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457476350 source:c:\users\dell\documents\progra\arreglosbidi3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

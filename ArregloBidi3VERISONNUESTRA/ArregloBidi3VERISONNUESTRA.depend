@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457477310 source:c:\users\dell\documents\progra\arreglobidi3verisonnuestra\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
